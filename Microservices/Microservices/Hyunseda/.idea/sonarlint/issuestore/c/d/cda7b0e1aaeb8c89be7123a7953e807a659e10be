@@ -1,0 +1,29 @@
+
+¨
+java:S1488("`Immediately return this expression instead of assigning it to the temporary variable "category".(Î¼ø³ÿÿÿÿÿ8ó¶˜òğ1J$2ea09ca3-d22b-4d7e-85a0-07ca34b3db49
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒ®Ğ•ò1J$50ff9a26-cdf0-4377-a26c-9d0c9d17b7c5
+v
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ãıöñğ1J$e39c6bf6-6e38-405c-9559-0a27ec0c1648
+v
+java:S6837%"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ŞÛ”òğ1J$745df54d-d08e-4401-af2e-abf6c5146441
+v
+java:S68374"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ƒÕ™òğ1J$b9713ad1-0e2f-467a-9a70-4751d4ef23a5
+v
+java:S6837C"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8é»«òğ1J$26161365-2d1e-4443-b699-e4c3a30faaf7
+v
+java:S6837R"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8×³Çòğ1J$05a6b428-560f-4773-8842-9cfc9a3a1dc5
+
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ííõÖùÿÿÿÿ8çıöñğ1J$9e1e315a-c3dc-48e6-b35d-e6230c9e9e9c
+z
+java:S1135"2Complete the task associated to this TODO comment.(¢ëëùÿÿÿÿ8èıöñğ1J$565cb771-65d8-46ec-9215-05aa8a09b9d6
+j
+java:S1905"'Remove this unnecessary cast to "List".(ÊËé¬8ÑÕúñğ1J$486cdb31-bebc-4b91-a76c-1e6efe167337
+‹
+java:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ê€ì8åÛ”òğ1J$d247a8ec-7917-419c-9990-d470c6cdfa4b
+’
+java:S44883"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Œ©³ıúÿÿÿÿ8‹Õ™òğ1J$7ccc9494-0108-4a88-8533-3411b1aa1d7d
+
+java:S4488B"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ƒÆèûÿÿÿÿ8ó»«òğ1J$f77bc136-4e4e-4cc5-ab47-cd498999f697
+
+java:S4488Q"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(°Æ¥F8â³Çòğ1J$36ef5cc4-7fc4-4bce-b7e4-d4da049acfa4

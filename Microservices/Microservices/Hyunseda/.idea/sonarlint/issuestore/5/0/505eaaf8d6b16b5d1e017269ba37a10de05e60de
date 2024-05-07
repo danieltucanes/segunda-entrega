@@ -1,0 +1,11 @@
+
+	java:S116"\Rename this field "ProductRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì„´‹8ô¢øíò1J$88e823c1-fda8-4824-aa78-b61b8940eb59
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ô¢øíò1J$d0815381-86a7-4611-afb9-d09bac961111
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ô¢øíò1J$e7a9b8a9-1631-4509-bff0-1baeb7b9af73
+]	java:S125="<This block of commented-out lines of code should be removed.(÷Ú£“øÿÿÿÿ8¢·æÂó1
+d
+java:S1128"GRemove this unused import 'com.microservice.product.entities.Category'.(Á¼˜‚8Ë–‡Íó1
+v
+java:S1128"TRemove this unused import 'com.microservice.product.persistence.CategoryRepository'.(ÿö“Ìıÿÿÿÿ8Ë–‡Íó1

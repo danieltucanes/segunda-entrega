@@ -1,0 +1,2 @@
+insert into client_db.clients (first_name,last_name,address,username,email,password) values ('Pepe','Perez','calle12','pepito23','pepe@gmail.com','123');
+insert into client_db.clients (first_name,last_name,address,username,email,password) values ('Luisa','lopez','calle21','luisalop','luisa@','987');

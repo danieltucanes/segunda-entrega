@@ -1,0 +1,37 @@
+
+Ά
+java:S14881"_Immediately return this expression instead of assigning it to the temporary variable "product".(ήΎκ΄8ηνοϋσ1J$a680f186-c73a-474c-91e0-481e096b12fb
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8σνοϋσ1J$47af8e8f-d44d-4004-9d2a-b0e7d1dbae17
+v
+java:S6837!"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8υνοϋσ1J$470201b5-bf49-4442-b11b-3e7de8704c8e
+v
+java:S6837."3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8υνοϋσ1J$438e9a72-13e6-43d2-a1a3-223574495409
+v
+java:S6837<"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8υνοϋσ1J$1a00ebd0-583a-4f6e-80ad-ef816e344699
+v
+java:S6837L"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8υνοϋσ1J$887491d9-b547-48c9-bd4b-7467e4ca6a5f
+v
+java:S6837Z"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8υνοϋσ1J$7193b1f1-dfc8-4858-8664-8c4021ade5fb
+
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ννυΦωÿÿÿÿ8ψνοϋσ1J$ef1a1b49-d9c8-42d0-a868-3e31542646bc
+z
+java:S1135"2Complete the task associated to this TODO comment.(Άλλωÿÿÿÿ8ωνοϋσ1J$1f77402a-6b27-45ec-a1b0-c931367070f0
+j
+java:S1905#"'Remove this unnecessary cast to "List".(θγ¶Ν8ϋνοϋσ1J$be2cd6fd-e6e0-48a9-8d3e-5601f7dd2e89
+‹
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Κ€μ8όνοϋσ1J$fde0446d-02c2-4fe0-b185-80e81edfe201
+’
+java:S4488;"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(©³ύϊÿÿÿÿ8ώνοϋσ1J$92ad0123-035d-42c2-b517-7182cbc24834
+
+java:S4488K"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ƒΖθϋÿÿÿÿ8ÿνοϋσ1J$2c3ce48f-3eab-41e4-9514-4ebb0a52d2ce
+
+java:S4488Y"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(°Ζ¥F8ξοϋσ1J$bb8aa23f-b89a-4973-bb2d-dc73ec4cef37
+n
+java:S1452`"&Remove usage of generic wildcard type.(¶ΡΏοϋÿÿÿÿ8Α®πϋσ1J$54e60ae8-5b67-47be-83c9-429385924559
+
+java:S1128"GRemove this unused import 'com.microservice.product.entities.Category'.(ΑΌ‚8²Έ…τ1J$aae7aa26-223d-4743-ad65-1f76f6143d92
+
+java:S1128"TRemove this unused import 'com.microservice.product.persistence.CategoryRepository'.(ÿφ“Μύÿÿÿÿ8³Έ…τ1J$1422044f-6f3e-41b8-a6a2-a0215bfc6327
+‹
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚ξ‰ή8χ‡τ1J$a9bb1c68-9163-40fb-b0ba-5e95b217d7c0

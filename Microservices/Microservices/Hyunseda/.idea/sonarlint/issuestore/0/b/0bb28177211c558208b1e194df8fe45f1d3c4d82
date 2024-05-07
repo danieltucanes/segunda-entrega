@@ -1,0 +1,27 @@
+
+
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "order".(çëÄÌùÿÿÿÿJ$6713f3ca-b0f4-48a9-a8aa-4ee5a093e37f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$bb6f33b0-6122-4f98-ba5b-fe245b7c98fc
+o
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$51b9aa01-b340-42af-b95a-d237657c7d5f
+o
+java:S6837&"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$b3a0c724-a33f-4818-b0f3-913847bfebd9
+o
+java:S68375"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$7820929d-0b8d-4c82-9f7a-a2b5297e36b6
+o
+java:S6837D"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$a3b248e5-b3db-46e0-95b3-5c007fc91273
+o
+java:S6837R"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$15599df2-20a0-4a8b-9451-e59ad3d5546f
+‰
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ííõÖùÿÿÿÿJ$09c4dbdd-c5ca-4064-bf63-66a213a8c56e
+s
+java:S1135"2Complete the task associated to this TODO comment.(¢ëëùÿÿÿÿJ$70431e6e-9da0-40a5-b847-85857a589d6e
+„
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ê€ìJ$cb485c80-da07-4a3a-bf30-43bb42026c8f
+‹
+java:S44884"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Œ©³ıúÿÿÿÿJ$9f0a3b30-ff65-47e2-aaee-4967ad322621
+‰
+java:S4488C"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ƒÆèûÿÿÿÿJ$0dde8333-671d-489f-be75-4dce833a38f1
+‰
+java:S4488Q"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(°Æ¥FJ$59da0469-f145-47fa-badc-cb72f5a2c7be

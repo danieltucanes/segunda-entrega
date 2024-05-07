@@ -1,0 +1,11 @@
+
+Ÿ	java:S116"]Rename this field "CategoryRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üƒğ8İÛºÍó1J$687898cc-c485-4041-a8c0-a65919ba9249
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ìÛºÍó1J$0e1ddaaa-9ff4-4d86-b0d0-e0305aeb5736
+j
+java:S1905"'Remove this unnecessary cast to "List".(Ñ¾‹Ô8÷ÛºÍó1J$0999f7fe-5c79-48c9-bbc8-40767b6a52f8
+ƒ	java:S125<"<This block of commented-out lines of code should be removed.( ¹ƒùÿÿÿÿ8ÜºÍó1J$5ceb1b1b-c0fc-46fe-ad1e-90fb0087c8e6
+
+java:S1128"FRemove this unused import 'com.microservice.product.entities.Product'.(ôıÆùÿÿÿÿ8ğ­ëÍó1J$90b39849-db31-40b4-a2be-c24023ff92aa
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÿ­ëÍó1J$13c17305-7848-4e5e-8bfb-a31ae5c36a0c
